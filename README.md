@@ -160,3 +160,4 @@ def iniciar_sesion():
             print("No se inició sesión correctamente.")
 
 iniciar_sesion()
+Link a la documentacion: https://docs.google.com/document/d/1NhJd8cC8BKLeP8G_3HQQnmGSSp9QmUVH37oVLrrHDoU/edit?usp=sharing
